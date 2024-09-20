@@ -4,10 +4,10 @@ This is a basic **chat application** built using **JavaFX** for the user interfa
 
 ## Screenshots
 
-<img src="screenshots/startChatting.png" alt="" width="200"/>
-<img src="screenshots/enterUsername.png.png" alt="" width="200"/>
-<img src="screenshots/oneClient.png.png" alt="" width="200"/>
-<img src="screenshots/secondClient.png" alt="" width="200"/>
+<img src="screenshots/startChatting.png" alt="" width="250"/>
+<img src="screenshots/enterUsername.png" alt="" width="250"/>
+<img src="screenshots/oneClient.png" alt="" width="250"/>
+<img src="screenshots/secondClient.png" alt="" width="250"/>
 
 ## Technologies Used
 
@@ -41,3 +41,5 @@ This is a basic **chat application** built using **JavaFX** for the user interfa
    ```bash
    git clone https://github.com/Plavsic01/ChatApplication.git
    ```
+2. Start Server
+3. Start ChatApplication
